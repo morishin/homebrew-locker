@@ -1,6 +1,4 @@
-### My Homebrew formulae
-
 ```Shell
-brew tap morishin/morishin
-brew install <formula name>
+brew tap morishin/locker
+brew install locker
 ```
